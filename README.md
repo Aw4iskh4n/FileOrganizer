@@ -1,3 +1,18 @@
+# Description
+
+File Organizer is a convenient bash script designed to help users declutter and organize their directories based on file types. Whether you have a downloads folder brimming with assorted files or a workspace where different file types are mixed together, this script aims to bring order to the chaos.
+
+
+# Features
+
+1- Pre-defined Categories: The script already knows about common file extensions like .pdf, .mp3, .jpg, and many more. It organizes them into intuitive categories like Docs, Audio, Img, etc.
+
+2 Custom Categories: Not limited to only the default file types, users can define their own file extensions and categorize them as they see fit.
+
+3- Undo Functionality: Made a mistake or changed your mind? Use the undo feature to revert the last organization operation.
+
+4- Interactive UI: With an easy-to-navigate menu-driven interface, users can select the organization criteria, choose specific file types, or undo previous operations.
+
 # Windows
 
 
