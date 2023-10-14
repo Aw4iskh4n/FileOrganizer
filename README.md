@@ -2,7 +2,9 @@
 
 
 1- Download this resository
+
 2- Open the file named " File Organizer.cmd"
+
 3- Follow the further process
 
 
